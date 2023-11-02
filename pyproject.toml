@@ -88,6 +88,7 @@ line-length = 200
 skip = """
 ./.tox,\
 ./.egg,\
+./*.egg-info,\
 ./.git,\
 ./__pycache__,\
 ./build,\
